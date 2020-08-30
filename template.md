@@ -1,17 +1,15 @@
-## Hello World
+## Welcome to GitHub Pages
 
-My name is Katherine Kee, Wan Ting! My online username is LeafGecko; it's been a name I've been using for gaming, online forums, and competitions.
+You can use the [editor on GitHub](https://github.com/leafgecko/leafgecko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Here are more links to other things I throw my time at
-[LeafGecko's HackerRank](https://www.hackerrank.com/LeafGecko)
-[My Linkedin](https://www.linkedin.com/in/kee-wan-ting-634453a9/)(not the most updated, GitHub is *Cooler*!)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About me
+### Markdown
 
-I've been dabbling in Tech since Primary 1 (It's a **really** unique story, hire me and I'll share:smirk:) 
-From just a weekly activity, robotics involved into a passion that influanced my educational paths.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+Syntax highlighted code block
 
 # Header 1
 ## Header 2

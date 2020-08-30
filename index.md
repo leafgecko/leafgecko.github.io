@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to LeafGecko's Page
 
-You can use the [editor on GitHub](https://github.com/leafgecko/leafgecko.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+About me:
+Hi my friends call me Katherine or Wan Ting! I'm currently a 3rd year NTU CompEng student!
+Do check out my project, NTULearn Downloader, below!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### NTULearn Downloader
 
-### Markdown
+This application helps you to pull and download your lecture, tutorial and even AcuLearn videos from NTU Learn Blackboard.
+Other functionalities include:
+- selecting which files to download
+- Don't want to download a specific mod? Select files you never want to download
+- Keeps track of what has been previously downloaded, so you don't download things twice
+- Options to only download non-video files (Videos will, obviously, take a while)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Windows GUI Download
 
-# Header 1
-## Header 2
-### Header 3
+Mac OS X GUI Download
 
-- Bulleted
-- List
+Dear Ubuntu/Linux users, like myself, since you have already gotten into this mess, I shall limit you to the CLI version.
+*CLI can be used across all OS
 
-1. Numbered
-2. List
+CLI Download
 
-**Bold** and _Italic_ and `Code` text
+Since I've never taken any UI course, it's completely understandable if you have 0 idea how the heck to use the GUI.
+Click here for a full step-by-step guide
+Click here for a detailed explaination on NTULearn Downloader and documentation.
+Click here for the full source code (And no, I won't be able to know your passwords)
 
-[Link](url) and ![Image](src)
-```
+### Support or Buy me a milkshake
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I love milkshakes with a passion and I'm not being paid for this. 
+If you find this useful or would like to support me, I would be eternally grateful if you could donate some moolah. 
+Paylah/Paynow:
+Paypal:
 
-### Jekyll Themes
+And since I've been putting my time into this instead of watching my lectures, 
+might as well make the best of out this and help me to share this with any of your NTU peers!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leafgecko/leafgecko.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Feddback or Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have a question? Check the FAQ BEFORE contacting me.
+Spot a (crucial) bug? Have feedback? 
+Reach me at @LeafGecko on telegram or email me at theleafgecko@gmail.com
