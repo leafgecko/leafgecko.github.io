@@ -1,0 +1,3 @@
+This folder contains various images like
+- paylah QR code
+- paynow/payantone QR code
